@@ -1,5 +1,5 @@
 import { TypeAnimation } from "react-type-animation";
-const Hero = () => {
+const Header = () => {
   return (
     <div className="text-white">
       <div className="max-w-[800px] mt-[-90px] w-full h-screen mx-auto text-center flex flex-col justify-center">
@@ -39,4 +39,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default Header;
